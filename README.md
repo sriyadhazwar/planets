@@ -22,7 +22,7 @@ git clone https://github.com/sriyadhazwar/planets.git
 <h3 style="font-size: 18px;">📂 Move yourself to the appropriate repository</h3>
 
 ```bash
-cd star-wars
+cd planets
 ```
 
 <h3 style="font-size: 18px;">🎉 Install the package dependencies</h3>
