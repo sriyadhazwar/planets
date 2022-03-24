@@ -4,7 +4,7 @@
 
 **Star Wars** is an unofficial Star Wars app that searches in the [SWAPI](https://swapi.dev/) data about characters, planets, vehicles and spaceships of the franchise.
 
-### [🟢 See live](https://star-wars-joaogabriel-sg.vercel.app/)
+
 
 <p align="center">
 <a href="https://star-wars-joaogabriel-sg.vercel.app/" target="_blank"><img width="70%" src="https://i.imgur.com/ZZZRV3c.png" /></a>
@@ -16,7 +16,7 @@
 <h3 style="font-size: 18px;">🧬 Clone this repository</h3>
 
 ```bash
-git clone https://github.com/joaogabriel-sg/star-wars.git
+git clone https://github.com/sriyadhazwar/planets.git
 ```
 
 <h3 style="font-size: 18px;">📂 Move yourself to the appropriate repository</h3>
@@ -67,8 +67,8 @@ Builds the app for production to the `build` folder.
 
 # 👨🏻‍💻 Author
 
-- GitHub: [joaogabriel-sg](https://github.com/joaogabriel-sg)
-- LinkedIn: [joaogabriel-sg](https://www.linkedin.com/in/joaogabriel-sg/)
+- GitHub: [Riyadh Azwar](https://github.com/sriyadhazwar)
+
 
 # ✨ Show your support
 
